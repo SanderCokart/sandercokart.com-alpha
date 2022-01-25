@@ -136,6 +136,8 @@
       <excludeFolder url="file://$MODULE_DIR$/api/vendor/owen-it/laravel-auditing" />
       <excludeFolder url="file://$MODULE_DIR$/api/vendor/andreaselia/laravel-api-to-postman" />
       <excludeFolder url="file://$MODULE_DIR$/api/vendor/spatie/laravel-sluggable" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/fidum/laravel-eloquent-morph-to-one" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/laravel/telescope" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
