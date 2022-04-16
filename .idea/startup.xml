@@ -3,7 +3,7 @@
   <component name="ProjectStartupSharedConfiguration">
     <configurations>
       <configuration id="npm.dev" name="dev" />
-      <configuration id="PHP Script.serve" name="serve" />
+      <configuration id="PHP Script.phone serve" name="phone serve" />
     </configurations>
   </component>
 </project>

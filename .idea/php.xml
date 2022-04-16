@@ -117,21 +117,21 @@
       <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php81" />
       <path value="$PROJECT_DIR$/api/vendor/owen-it/laravel-auditing" />
       <path value="$PROJECT_DIR$/api/vendor/andreaselia/laravel-api-to-postman" />
-      <path value="$PROJECT_DIR$/api/vendor/spatie/laravel-sluggable" />
       <path value="$PROJECT_DIR$/api/vendor/fidum/laravel-eloquent-morph-to-one" />
       <path value="$PROJECT_DIR$/api/vendor/laravel/telescope" />
       <path value="$PROJECT_DIR$/api/vendor/symfony/mailer" />
       <path value="$PROJECT_DIR$/api/vendor/spatie/laravel-ignition" />
       <path value="$PROJECT_DIR$/api/vendor/spatie/backtrace" />
-      <path value="$PROJECT_DIR$/api/vendor/spatie/ignition" />
       <path value="$PROJECT_DIR$/api/vendor/spatie/flare-client-php" />
       <path value="$PROJECT_DIR$/api/vendor/pestphp/pest" />
       <path value="$PROJECT_DIR$/api/vendor/pestphp/pest-plugin" />
       <path value="$PROJECT_DIR$/api/vendor/pestphp/pest-plugin-laravel" />
       <path value="$PROJECT_DIR$/api/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/api/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/api/vendor/spatie/laravel-sluggable" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/api/vendor/autoload.php" />
