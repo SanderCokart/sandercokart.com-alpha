@@ -1,6 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="pest:test" type="PhpLocalRunConfigurationType" factoryName="PHP Console" activateToolWindowBeforeRun="false" path="$PROJECT_DIR$/api/artisan" scriptParameters="pest:test $Prompt$">
-    <CommandLine workingDirectory="$PROJECT_DIR$/api" />
-    <method v="2" />
-  </configuration>
-</component>
