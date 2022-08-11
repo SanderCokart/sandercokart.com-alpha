@@ -132,6 +132,7 @@
       <excludeFolder url="file://$MODULE_DIR$/api/vendor/fruitcake/php-cors" />
       <excludeFolder url="file://$MODULE_DIR$/api/vendor/spatie/ignition" />
       <excludeFolder url="file://$MODULE_DIR$/api/vendor/spatie/laravel-sluggable" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/nunomaduro/termwind" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
